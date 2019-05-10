@@ -8,8 +8,8 @@
 
 1.医学论坛
 >[丁香园](http://www.dxy.cn/ "丁香园")
->[爱爱医医学网](https://www.iiyi.com/ "爱爱医医学网")
-[medscape(丁香园的国外加强版)](https://www.medscape.com/ "丁香园的国外加强版")
+#[爱爱医医学网](https://www.iiyi.com/ "爱爱医医学网")
+#[medscape(丁香园的国外加强版)](https://www.medscape.com/ "丁香园的国外加强版")
 
 
 2.医学视频

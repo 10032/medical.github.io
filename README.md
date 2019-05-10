@@ -1,10 +1,12 @@
 欢迎来到medical
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-------------
-阴差阳错学了医。
-从上学到实习再到考试。
+----------------
+阴差阳错学了医,
+从上学到实习再到考试.
 走了不少冤枉路,嗨呀是~~真的气！~~
-所以有了这个项目，努力让后来者少走弯路.
+所以有了这个项目,努力让后来者少走弯路.
+以下所有项目打不开的话是你网有问题!
+请自行寻找解决办法.
 
 1.医学论坛
   - [丁香园](http://www.dxy.cn/ "丁香园")

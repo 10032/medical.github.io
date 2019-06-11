@@ -46,8 +46,8 @@
   - [浙江大学图书馆项目](https://qsctech.github.io/zju-icicles/ "浙江大学图书馆项目")
   
   6.杂项(百度网盘)
-  - [不定期更新](https://pan.baidu.com/s/1s5VQzq9gh5gnbOiwJDZnww/"百度网盘")
-  -  提取码:v6ix
+  - [不定期更新](https://pan.baidu.com/s/1ubs-D5UqHT9oBzF2UhWOVw/"百度网盘")
+  -  提取码:nu6w
 
 我们的论坛
 **[Telegram](https://t.me/medical_china "Telegram")**

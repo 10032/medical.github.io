@@ -46,7 +46,7 @@
   - [浙江大学图书馆项目](https://qsctech.github.io/zju-icicles/ "浙江大学图书馆项目")
 
   6.杂项(百度网盘)
-  - [不定期更新](https://pan.baidu.com/s/1ubs-D5UqHT9oBzF2UhWOVw/"百度网盘")← ### 被卖资料的疯狂举报,链接如果失效请去TG群找群主
+  - [不定期更新](https://pan.baidu.com/s/1ubs-D5UqHT9oBzF2UhWOVw/"百度网盘") ← 被卖资料的疯狂举报,链接如果失效请去TG群找群主
   -  提取码:nu6w
 
 我们的论坛

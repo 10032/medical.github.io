@@ -2,12 +2,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ### 这里所有内容不定期更新
 ------------
-阴差阳错学了医,从上学到实习再到考试.
-走了不少冤枉路,嗨呀是真的~~头疼~~**开心**
-所以有了这个项目,努力让后来者少走弯路.
-以下所有项目打不开的话是**你网有问题**!
-请自行寻找解决办法.
-
 1.医学论坛
   - [丁香园](http://www.dxy.cn/)
   - [爱爱医医学网](https://www.iiyi.com/)
